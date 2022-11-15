@@ -6,7 +6,7 @@ authors = ["Lester Lee <lesterhnu@gmail.com>"]
 categories = [""]
 description = "Make your structs' fields be pub"
 repository = "https://github.com/lesterhnu/pub_this"
-keywords = ["macros","pub", "pub fields"]
+keywords = ["macros","pub"]
 license = "MIT"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [lib]
